@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Sfia ELMESLILI 👋 
 
-<!--
-**sfia-elmeslili-tech/sfia-elmeslili-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+(https://github-readme-stats.vercel.app/api?username=hello-worldsafia123&theme=radical&show_icons=true)
+ # Hi there! 👋
 
-Here are some ideas to get you started:
+I'm Safia ELMESLILI, a Full Stack Developer! 👩‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- 🌱  Web Developer.
+- 👀 Interested in BackEnd development.
+- 📖 Always learning and exploring new technologies.
+- 👯 Looking to collaborate with other companies or freelance projects.
+
+## Skills
+- ✔️ Tools: GIT | GITHUB
+- ✔️ Design: UML | Design Patterns | Clean code-Solid principles
+- ✔️ Web Service: JSON | XML
+- ✔️ Databases: MYSQL | MONGODB
+
+## 2026-2027 Goals
+- Learn more about Python, Django, React, and Web Development.
+
+Let's connect and build something amazing together! 🚀
+
+- 📫 How to reach me : Email : sfiaelmeslili@gmail.com /  <br>
+### 💻 Top Programming Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hello-worldsafia123&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

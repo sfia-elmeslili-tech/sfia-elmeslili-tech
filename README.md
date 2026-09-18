@@ -1,7 +1,3 @@
-# Hi there, I'm Sfia ELMESLILI 👋 
-
-(https://github-readme-stats.vercel.app/api?username=hello-worldsafia123&theme=radical&show_icons=true)
- # Hi there! 👋
 
 I'm Safia ELMESLILI, a Full Stack Developer! 👩‍💻
 

@@ -21,4 +21,4 @@ Let's connect and build something amazing together! 🚀
 - 📫 How to reach me : Email : sfiaelmeslili@gmail.com /  <br>
 ### 💻 Top Programming Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sfia-elmeslili-tech&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
